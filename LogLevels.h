@@ -1,0 +1,10 @@
+#ifndef LOGLEVELS_H
+#define LOGLEVELS_H
+
+#define LOG_LEVEL_ERROR 40
+#define LOG_LEVEL_WARN 30
+#define LOG_LEVEL_INFO 20
+#define LOG_LEVEL_DEBUG 10
+#define LOG_LEVEL_TRACE 0
+
+#endif
